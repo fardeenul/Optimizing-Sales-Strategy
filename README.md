@@ -1,5 +1,6 @@
 # Pens and Printers Sales Strategy Optimization
 Overview
+
 This repository contains the code and analysis for optimizing the sales strategy of Pens and Printers' new office stationery line. The analysis is based on a practical exam where the goal was to identify the most effective sales method and provide actionable insights for business improvement.
 
 Table of Contents
